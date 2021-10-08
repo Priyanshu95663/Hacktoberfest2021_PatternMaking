@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int n;  // No. of rows or columns
+int n;  // No. of rows or columns or rhombus of size n
 cin>>n;
 for (int i=1; i<=n; i++)
 {   
