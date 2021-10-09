@@ -39,6 +39,6 @@ happy hactoberfest 2021
 <p>Arpan Maheshwari | <a href="https://github.com/ArpanMaheshwari144">ArpanMaheshwari144</a> | <a href="maheshwariarpan828@gmail.com">Email ID</a> | </p>
 
 <p>Aaditya Kumra | <a href="https://github.com/AadityaKumra">aaditya kumra</a> | <a href="aadityakumra@gmail.com">mail id</a> | </p>
-<p>Priyanshu Mehra | <a href="https://github.com/AadityaKumra">aaditya kumra</a> | <a href="aadityakumra@gmail.com">mail id</a> | </p>
+<p>Priyanshu Mehra | <a href="https://github.com/AadityaKumra">Priyanshu mehra</a> | <a href="aadityakumra@gmail.com">mail id</a> | </p>
 
 
