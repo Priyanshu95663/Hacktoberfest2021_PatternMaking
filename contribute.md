@@ -29,9 +29,15 @@ happy hactoberfest 2021
 <p>maroof ansari | <a href="https://github.com/maroof31">maroof-ansari</a> | <a href="maroofansari144@gmail.com">mail id</a> | </p>
 <p>Divyanshu Tiwari | <a href="https://github.com/divyanshutw">divyanshutw</a> | <a href="divyanshutw@gmail.com">mail id</a> | </p>
 <p>Gagan Khatri | <a href="https://github.com/ItsGagan">ItsGagan</a> | <a href="itsgagankhatri@gmail.com">mail id</a> | </p>
+<p>Abel | <a href="https://github.com/ZAStech">ZAStech</a> | <a href="dolphinbluesky0@gmail.com">mail id</a> | </p>
 
 <p>Zentreax | <a href="https://https://github.com/zentreax">GitHub</a>  | <a href="zen@zentreax.dev">Email</a> |</p>
 
 <p>Adepu Loukya | <a href="https://github.com/A-Loukya">A-Loukya</a> | <a href="adepuloukya1@gmail.com">mail id</a> | </p>
 
+
 <p>Arpan Maheshwari | <a href="https://github.com/ArpanMaheshwari144">ArpanMaheshwari144</a> | <a href="maheshwariarpan828@gmail.com">Email ID</a> | </p>
+
+<p>Aaditya Kumra | <a href="https://github.com/AadityaKumra">aaditya kumra</a> | <a href="aadityakumra@gmail.com">mail id</a> | </p>
+
+
